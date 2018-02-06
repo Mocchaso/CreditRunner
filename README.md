@@ -12,11 +12,11 @@ Kinectに骨格情報を読み込ませ、身体を動かして画面上のキ�
     Unity上から自動で呼び出せるように設定してエディタとして使いました。
 
 ## 画面の様子  
-![タイトル画面](画像のURL "タイトル画面")  
+![タイトル画面](https://github.com/Mocchaso/CreditRunner/blob/img_store/img/title.png "タイトル画面")  
 図１．タイトル画面  
   
-![ゲーム画面](画像のURL "ゲーム画面")  
+![ゲーム画面](https://github.com/Mocchaso/CreditRunner/blob/img_store/img/play_game.png "ゲーム画面")  
 図２．ゲーム画面  
   
-![リザルト画面](画像のURL "リザルト画面")  
+![リザルト画面](https://github.com/Mocchaso/CreditRunner/blob/img_store/img/result.png "リザルト画面")  
 図３．リザルト画面  
